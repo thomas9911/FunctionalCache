@@ -38,6 +38,6 @@ def build_up_factorial(n):
 
 n = 900
 build_up_factorial(n)
-print("{}! = {}".format(n, factorial(900)))
+print("{}! = {}".format(n, factorial(n)))
 
 ```
