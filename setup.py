@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-with open('README') as f:
+with open('README.md') as f:
     long_description = f.read()
 
 setup(
@@ -12,5 +12,13 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/thomas9911/FunctionalCache',
     author='thomas9911',
-    author_email='thomastimmer11@hotmail.com'
+    author_email='thomastimmer11@hotmail.com',
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Development Status :: 4 - Beta",
+        "License :: Public Domain",
+        "Operating System :: OS Independent",
+        "Intended Audience :: Developers"
+        "Topic :: Utilities"
+    ]
 )
