@@ -1,0 +1,3 @@
+include *.txt
+include example.py
+recursive-include docs *.txt
