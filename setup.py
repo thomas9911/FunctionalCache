@@ -19,7 +19,7 @@ setup(
         "Development Status :: 4 - Beta",
         "License :: Public Domain",
         "Operating System :: OS Independent",
-        "Intended Audience :: Developers"
+        "Intended Audience :: Developers",
         "Topic :: Utilities"
     ]
 )
